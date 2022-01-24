@@ -16,3 +16,7 @@ Different tech projects
 - [Robot soccer](https://drive.google.com/drive/folders/1xofC55C6DJA6-YvTUXyI-Y2q7KWkhRBB?usp=sharing "Google Drive"): repo [Git](https://drive.google.com/drive/folders/1xofC55C6DJA6-YvTUXyI-Y2q7KWkhRBB?usp=sharing) - project work: full design and implementation of exhibition robot - Fanuc robot plays table soccerwith human. Stack: Fanuc Arc Mate 0iB + KAREL, TP + Roboguide; Python 3.x, openCV; low voltage ABB
 - [Robot lottery](https://drive.google.com/drive/folders/1s-mRXOc0TOd_jN1Yl441cMmATWBOUwib?usp=sharing "Google Drive") - project work: full design and implementation of exhibition robot - Fanuc robot dance and pick lottery balls (semi remote control). Stack: Fanuc Arc Mate 0iB + TP
 ---
+#### 2019:
+- [Robot chess](https://drive.google.com/drive/folders/1xofC55C6DJA6-YvTUXyI-Y2q7KWkhRBB?usp=sharing "Google Drive"): repo [Git](https://drive.google.com/drive/folders/1xofC55C6DJA6-YvTUXyI-Y2q7KWkhRBB?usp=sharing) - project work: full design and implementation of exhibition robot - Fanuc robot plays table soccerwith human. Stack: Fanuc Arc Mate 0iB + KAREL, TP + Roboguide; Python 3.x, openCV; low voltage ABB
+- [Robot lottery](https://drive.google.com/drive/folders/1s-mRXOc0TOd_jN1Yl441cMmATWBOUwib?usp=sharing "Google Drive") - project work: full design and implementation of exhibition robot - Fanuc robot dance and pick lottery balls (semi remote control). Stack: Fanuc Arc Mate 0iB + TP
+---
